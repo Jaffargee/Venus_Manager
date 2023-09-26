@@ -2,7 +2,7 @@
 from PyQt5.QtWidgets import *
 import sys
  
-class GeeksforGeeks(QWidget):
+class Venus(QWidget):
  
     def __init__(self):
         super().__init__()
@@ -63,6 +63,6 @@ class GeeksforGeeks(QWidget):
 
 
 app = QApplication([])
-window = GeeksforGeeks()
+windo= Venus()
 window.show()
 sys.exit(app.exec_())
