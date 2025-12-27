@@ -164,3 +164,7 @@ For questions, bug reports, or feature requests:
 ---
 
 **Venus File Manager** - A powerful, modern file manager for the desktop.
+##
+<img src="Screenshot 2025-12-27 135431.png" alt="Sample Image 1">
+<img src="Screenshot 2025-12-27 135444.png" alt="Sample Image 2">
+<img src="Screenshot 2025-12-27 135511.png" alt="Sample Image 3">
