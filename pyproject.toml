@@ -27,9 +27,9 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/Jaffargee/venus-file-manager"
-Repository = "https://github.com/Jaffargee/venus-file-manager.git"
-Issues = "https://github.com/Jaffargee/venus-file-manager/issues"
+Homepage = "https://github.com/Jaffargee/Venus_Manager"
+Repository = "https://github.com/Jaffargee/Venus_Manager.git"
+Issues = "https://github.com/Jaffargee/Venus_Manager/issues"
 
 [tool.setuptools]
 packages = ["."]
