@@ -124,7 +124,7 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 ### Development Setup
 ```bash
-git clone https://github.com/yourusername/venus-file-manager.git
+git clone https://github.com/Jaffargee/venus-file-manager.git
 cd venus-file-manager
 pip install -r requirements.txt
 python main.py
